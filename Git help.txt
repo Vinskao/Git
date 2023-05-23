@@ -1,0 +1,18 @@
+新建本地數據庫
+git init
+
+將檔案移入索引中
+git add .
+
+將索引內的檔案提交至本地數據庫
+git commit -m "message"
+
+加入遠端數據庫（GitHub）的方法：
+git remote add origin <your url>
+git branch -M main
+git push -u origin main
+
+所以當接下來有新增檔案 或是 修改檔案時，只需要執行以下幾個步驟即可：
+git add .
+git commit -m "message"
+git push -u origin main
