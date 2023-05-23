@@ -18,4 +18,4 @@ git commit -m "message"
 git push -u origin main
 
 //pull from github
->git remote repository open repository from github
+>remote repository: open remote repository
