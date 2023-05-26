@@ -24,3 +24,10 @@ git config --global user.name "Vinskao"
 
 //pull from github
 >remote repository: open remote repository
+
+//if above doesn't work for push
+git init
+git remote add origin https://github.com/Vinskao/Java.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
