@@ -17,5 +17,10 @@ git add .
 git commit -m "message"
 git push -u origin main
 
+//login
+git config --global user.email "tianyikao@gmail.com"
+git config --global user.name "Vinskao"
+
+
 //pull from github
 >remote repository: open remote repository
