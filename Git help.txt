@@ -30,6 +30,7 @@ git init
 git remote add origin https://github.com/Vinskao/Java.git
 git add .
 git commit -m "Initial commit"
+git push -u https://github.com/Vinskao/Docker.git
 git push -u origin master
 
 //clone 
