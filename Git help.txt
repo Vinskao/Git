@@ -31,6 +31,9 @@ git remote add origin https://github.com/Vinskao/Java.git
 git add .
 git commit -m "Initial commit"
 git push -u https://github.com/Vinskao/Docker.git
+//if there is sub folder
+git push --set-upstream https://github.com/Vinskao/3D-Forms.git master
+
 git push -u origin master
 
 //clone 
