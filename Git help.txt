@@ -1,4 +1,4 @@
-//新建本地數據庫
+t//新建本地數據庫
 git init
 
 //將檔案移入索引中
@@ -30,7 +30,7 @@ git init
 git remote add origin https://github.com/Vinskao/Java.git
 git add .
 git commit -m "Initial commit"
-git push -u https://github.com/Vinskao/ReactSection3.git
+git push -u https://github.com/Vinskao/ReactVite.git
 //if there is sub folder
 git push --set-upstream https://github.com/Vinskao/3D-Forms.git master
 
